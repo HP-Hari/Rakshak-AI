@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rakshak AI</string>
+    <string name="accessibility_service_description">Rakshak AI Screen-Share Shield detects unauthorized remote screen sharing tools active alongside sensitive banking applications.</string>
+</resources>
